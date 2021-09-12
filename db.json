@@ -51,6 +51,45 @@
       "latitude": "-86.7679",
       "longitude": "95.5614",
       "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/trubeatto/128.jpg"
+    },
+    {
+      "name": "Maverick Dare",
+      "dob": "1992-6-23",
+      "email": "Maverick.Dare@gmail.com",
+      "username": "Maverick_Dare",
+      "password": "T2MuR7JDw6VsEDK",
+      "phone": "293-426-8629",
+      "streetaddress": "68916 Janice Pines",
+      "citystatezip": "Babychester, CT 17061",
+      "latitude": "75.8181",
+      "longitude": "-25.2147",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/davecraige/128.jpg"
+    },
+    {
+      "name": "Dominique Quitzon",
+      "dob": "1968-10-16",
+      "email": "Dominique_Quitzon@hotmail.com",
+      "username": "Dominique25",
+      "password": "BHBhO5Ce_twxAHy",
+      "phone": "330-807-1022",
+      "streetaddress": "953 Zena Crest",
+      "citystatezip": "Isadorehaven, CT 78408",
+      "latitude": "68.8314",
+      "longitude": "-56.3609",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mtolokonnikov/128.jpg"
+    },
+    {
+      "name": "Oren Considine",
+      "dob": "1961-7-3",
+      "email": "Oren75@hotmail.com",
+      "username": "Oren.Considine81",
+      "password": "aGogMpXiTTBeDHp",
+      "phone": "808-425-8226 x205",
+      "streetaddress": "354 Dicki Dale",
+      "citystatezip": "Ziemannside, NH 62235",
+      "latitude": "-89.1266",
+      "longitude": "-90.3369",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hfalucas/128.jpg"
     }
   ]
 }
